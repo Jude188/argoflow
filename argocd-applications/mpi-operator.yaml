@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/argoflow/argoflow
-    targetRevision: HEAD
+    repoURL: https://github.com/Jude188/argoflow/
+    targetRevision: master
     path: kubeflow/operators/mpi
     kustomize:
       version: v4.0.5
